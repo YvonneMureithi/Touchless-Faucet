@@ -1,7 +1,6 @@
 # Touchless-Faucet
 
-## A Touchless Faucet with a Door Control System that uses an Ultrasonic Sensor, a Servo motor, a Relay, a Submersible Pump, 
-a Potentiometer and an LCD
+## A Touchless Faucet with a Door Control System that uses an Ultrasonic Sensor, a Servo motor, a Relay, a Submersible Pump, a Potentiometer and an LCD
 
 ## Project Statement
 

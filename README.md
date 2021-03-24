@@ -10,7 +10,7 @@ therefore helps one reduce coming into contact with a contaminated sureface, i.e
 
 ## Components
 
-Arduino MEGA 2560, SG 90 Servo Motor, HC-SR04 Ultrasonic Sensor, Jumper wires, SRD-05VDC-SL-C Relay, AC 240V to DC 12V Converter, Breadboard, 
+Arduino MEGA 2560, SG 90 Servo Motor, HC-SR04 Ultrasonic Sensor, Jumper wires, transistor, AC 240V to DC 12V Converter, Breadboard, 
 Potentiometer, Submersible Pump, LED, 220 Ohm Resistor.
 
 ## Specifications
@@ -51,13 +51,6 @@ Power Rating: 0.1 kW.
 **Pin-out**
 
 VCC: Power GND: Ground.
-
-## SRD-05VDC-SL-C Relay
-
-Input Voltage: 250V AC,
-Output Voltage: 28V DC,
-Input Current: 10A,
-Output Current: 10A.
 
 **Pin-out**
 

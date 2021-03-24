@@ -64,16 +64,16 @@ Output Current: 10A.
 NC: Normally closed 120-240V terminal,
 NO: Normally opn 120-240V terminal,
 C: Common terminal,
-Ground: Connects to the ground pin on the Arduino 5V
+Ground: Connects to the ground pin on the Arduino 5V,
 VCC: Connects the Arduino's 5V pin,
 Signal: Carries the trigger signal from the Arduino that activates the relay.
 
 ## AC 240V to DC 12V Converter Power Supply
 
-AC Input: 110/220V +/- 15% 50/60 Hz DC Output: 12V 20A
+AC Input: 110/220V +/- 15% 50/60 Hz DC Output: 12V 20A.
 
 **Pin-out**
 
-Input : Live Neutral Earth
+Input : Live Neutral Earth,
 Output : Com +
 

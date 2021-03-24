@@ -48,7 +48,7 @@ Operating Temperature: 80°C,
 Motor Power: 0.1 hp,
 Power Rating: 0.1 kW.
 
-## Pin-Out
+# Pin-Out
 
 VCC: Power GND: Ground.
 
@@ -59,7 +59,7 @@ Output Voltage: 28V DC,
 Input Current: 10A,
 Output Current: 10A.
 
-## Pin-out
+# Pin-out
 
 NC: Normally closed 120-240V terminal,
 NO: Normally opn 120-240V terminal,
@@ -72,7 +72,7 @@ Signal: Carries the trigger signal from the Arduino that activates the relay.
 
 AC Input: 110/220V +/- 15% 50/60 Hz DC Output: 12V 20A
 
-## Pin-out
+# Pin-out
 
 Input : Live Neutral Earth
 Output : Com +

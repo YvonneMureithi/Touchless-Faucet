@@ -2,7 +2,7 @@
 
 ## A Touchless Faucet with a Door Control System that uses an Ultrasonic Sensor, a Servo motor, a Relay, a Submersible Pump, a Potentiometer and an LCD
 
-## Project Statement
+### Project Statement
 
 The project involves coming up with a proof-of-concept touchless faucet with a door control system that has one washing or santizing 
 their hands before accessing a building or room and afterwards accessing the said room via a door that opens automatically. This 

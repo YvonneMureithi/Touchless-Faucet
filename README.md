@@ -70,3 +70,6 @@ AC Input: 110/220V +/- 15% 50/60 Hz DC Output: 12V 20A.
 Input : Live Neutral Earth,
 Output : Com +
 
+## Breadboard Layout
+![Breadboard layout](Fritzing/Schematic_bb.png)
+

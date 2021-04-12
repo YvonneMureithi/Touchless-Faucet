@@ -10,8 +10,8 @@ therefore helps one reduce coming into contact with a contaminated sureface, i.e
 
 ## Components
 
-Arduino MEGA 2560, SG 90 Servo Motor, HC-SR04 Ultrasonic Sensor, Jumper wires, transistor, AC 240V to DC 12V Converter, Breadboard, 
-Potentiometer, Submersible Pump, LED, 220 Ohm Resistor.
+Arduino MEGA 2560, SG 90 Servo Motor, HC-SR04 Ultrasonic Sensor, Jumper wires, Transistor, AC 240V to DC 12V Converter, Breadboard, 
+Potentiometer, Submersible Pump, LCD, 220 Ohm Resistor.
 
 ## Specifications
 
